@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Kılavuz'a Hoş Geldiniz
+# 👋🏻 Kılavuz'a Hoş Geldiniz
 
 :::info[&nbsp;]
 **Kılavuzu kullanırken, sorun yaşadığınız yerleri bize söylemekten çekinmeyin.**

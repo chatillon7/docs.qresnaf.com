@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Sanal Oto Galeri/Emlak Uygulaması
+# 🚗 Sanal Oto Galeri/Emlak Uygulaması
 
 Uygulamanıza herhangi bir kişiselleştirme veya düzenleme yapmak için yönetici paneline erişmeniz gerekir.
 Yönetici paneline erişmek için size vermiş olduğumuz yönetici hesabı bilgilerini, yönetici giriş sayfasında kullanmanız ve açılan pencereden işlemlerini gerçekleştirebilirsiniz.
