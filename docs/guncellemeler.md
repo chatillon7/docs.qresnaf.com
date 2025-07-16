@@ -44,4 +44,20 @@ import TabItem from '@theme/TabItem';
     >
     > — chatillon7
   </TabItem>
+  <TabItem value="15.07.25" label="15 Temmuz 2025" default>
+    >**Instagram Sayfası**
+    >
+    >* Gönderiler oluşturuldu
+    >* Gönderiler/etiketler güncellendi
+    >
+    > — chatillon7
+  </TabItem>
+  <TabItem value="16.07.25" label="16 Temmuz 2025" default>
+    >**Uygulama taslakları atıldı**
+    >
+    >* UI tasarımı oluşturuldu
+    >* PDF dosyasına aktarıldı
+    >
+    > — chatillon7
+  </TabItem>
 </Tabs>
