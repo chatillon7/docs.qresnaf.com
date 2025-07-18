@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
     >
     > — chatillon7
   </TabItem>
-  <TabItem value="14.07.25" label="14 Temmuz 2025" default>
+  <TabItem value="14.07.25" label="14 Temmuz 2025">
     >**Kılavuz Sayfası**
     >
     >* Footer kaldırıldı
@@ -44,7 +44,7 @@ import TabItem from '@theme/TabItem';
     >
     > — chatillon7
   </TabItem>
-  <TabItem value="15.07.25" label="15 Temmuz 2025" default>
+  <TabItem value="15.07.25" label="15 Temmuz 2025">
     >**Instagram Sayfası**
     >
     >* Gönderiler oluşturuldu
@@ -52,11 +52,29 @@ import TabItem from '@theme/TabItem';
     >
     > — chatillon7
   </TabItem>
-  <TabItem value="16.07.25" label="16 Temmuz 2025" default>
+  <TabItem value="16.07.25" label="16 Temmuz 2025">
     >**Uygulama taslakları atıldı**
     >
     >* UI tasarımı oluşturuldu
     >* PDF dosyasına aktarıldı
+    >
+    > — chatillon7
+  </TabItem>
+  <TabItem value="17.07.25" label="17 Temmuz 2025">
+    >**Meta Bussiness Oluşturuldu**
+    >
+    >* Facebook sayfası açıldı
+    >* Otomasyon eklendi
+    >* Görseller ve içerikler güncellendi
+    >
+    > — chatillon7
+
+    >**Google SEO Ayarlandı**
+    >
+    >* İşletmenin, Google'da öne çıkması sağlandı
+    >* Organizasyon şeması ayarlandı
+    >* Cloudflare üzerinden statik/dinamik olarak
+    bazı sayfalar ikiye bölündü
     >
     > — chatillon7
   </TabItem>
