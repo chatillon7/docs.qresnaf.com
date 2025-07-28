@@ -78,4 +78,18 @@ import TabItem from '@theme/TabItem';
     >
     > — chatillon7
   </TabItem>
+  <TabItem value="28.07.25" label="28 Temmuz 2025">
+    >**QR EsnaF İlk Çözüm Uygulaması Stabil Olarak Geliştirildi**
+    >
+    >* Admin Paneli
+    >* Şirket Ayarları
+    >* Kampanyalar
+    >* Renkler ve Açık/Koyu Tema
+    >* Kategoriler
+    >* Ürünler
+    >* Kullanıcılar
+    >* Analizler
+    >
+    > — chatillon7
+  </TabItem>
 </Tabs>
