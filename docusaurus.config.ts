@@ -67,6 +67,17 @@ const config: Config = {
       },
       items: [
         {
+          href: 'https://wa.me/message/NYKFHECSC7BDD1',
+          // Only one of "to" or "href" should be used
+          // href: 'https://www.facebook.com',
+          html: '+90 551 485 88 33',
+          // Only one of "label" or "html" should be used
+          // html: '<b>Introduction</b>'
+          position: 'right',
+          activeBaseRegex: '/',
+          target: '_blank',
+        },
+        {
           href: 'https://qresnaf.com',
           // Only one of "to" or "href" should be used
           // href: 'https://www.facebook.com',
